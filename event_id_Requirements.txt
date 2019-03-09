@@ -1,0 +1,6 @@
+Event Id Catalog 
+
+Requirements:
+1. Sorted by EventID column (ascending)
+2. All EventID's must be integer
+3. No scientific notation ( no e)

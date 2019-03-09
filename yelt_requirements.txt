@@ -1,0 +1,9 @@
+requirements
+1. sort by trialId and then sequence
+2. EventId must be valid integer
+3. EverndId must be associated with Event Catalog
+4. All sequence numbers must be decimals , < 365 unless multiyear
+5. Sequence column can also be called "Day"
+6. No scientific notation
+7. No digit seperators ( 9,000 -> 9000)
+8. Zero loss value should be omitted ( just the column or the whole row ??)
